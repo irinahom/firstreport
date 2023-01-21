@@ -1,2 +1,2 @@
-# firstreport
-my first project
+# firstrepo
+my first repo
